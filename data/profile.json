@@ -1,0 +1,104 @@
+{
+  "name": "Leomer Romero",
+  "title": "Senior Full Stack Engineer",
+  "location": "Metro Manila, Philippines",
+  "timezone": "UTC+8",
+  "availability": "Open to remote full stack roles · International teams",
+  "hireable": true,
+  "links": {
+    "portfolio": "https://leomer-romero.vercel.app/",
+    "github": "https://github.com/leomer21",
+    "contact": "https://leomer-romero.vercel.app/#contact"
+  },
+  "headline": "I design and ship scalable web applications, cloud-native systems, and AI-powered product experiences for high-traffic platforms.",
+  "focusAreas": [
+    "Full Stack Web Development",
+    "AI-Powered Applications",
+    "Cloud-Native Systems",
+    "Backend & API Engineering",
+    "Scalable SaaS Platforms",
+    "Remote International Teams"
+  ],
+  "stack": {
+    "frontend": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vue.js", "Framer Motion"],
+    "backend": ["Node.js", "Next.js API Routes", "Laravel", "Python", "REST & GraphQL APIs"],
+    "cloud": ["AWS", "Azure", "Vercel", "Docker", "Kubernetes", "CI/CD"],
+    "data": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Apache Kafka"],
+    "ai": ["OpenAI API", "LLM Integration", "AI-Assisted Workflows"]
+  },
+  "highlights": [
+    "10+ years building production web applications across telecom, SaaS, and enterprise platforms",
+    "Led systems serving 1M+ users with measurable gains in performance, reliability, and throughput",
+    "Delivered 35–60% improvements in response time and system throughput via microservices and event-driven architecture",
+    "Experienced leading teams, mentoring engineers, and shipping in Agile remote environments"
+  ],
+  "experience": [
+    {
+      "role": "Senior Full Stack Engineer",
+      "period": "May 2021 – Jul 2024",
+      "location": "Sydney, Australia · Remote",
+      "highlights": [
+        "Architected MERN and Laravel services with real-time WebSocket sync, cutting response time by 35%",
+        "Built React interfaces for 1M+ users; integrated AWS Lambda, SQS, and SNS for scalable cloud workloads",
+        "Introduced Kafka-based event streaming and GitHub Actions CI/CD across microservices"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Developer",
+      "period": "Feb 2018 – Apr 2021",
+      "location": "Giza, Egypt · Hybrid",
+      "highlights": [
+        "Migrated Laravel 5.2 to latest release while moving MySQL to MongoDB with zero feature regression",
+        "Increased high-traffic performance by 40% and throughput by 60% with Kafka and Python APIs",
+        "Managed a team of 5 developers delivering 10+ major features on Azure with 99.9% uptime"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "period": "Aug 2015 – Jan 2018",
+      "location": "Metro Manila, Philippines",
+      "highlights": [
+        "Shipped internal tools on PHP, Laravel, and Vue.js processing 500K+ daily transactions",
+        "Integrated AWS and Azure services; built real-time inventory systems with Node.js and WebSockets"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Parking Management Platform",
+      "repo": "leomer21/parking-management-system-frontend",
+      "stack": ["TypeScript", "React", "Node.js"],
+      "description": "Full-stack parking management with optimized utilization, revenue tracking, and security integrations."
+    },
+    {
+      "name": "E-Commerce Product UI",
+      "repo": "leomer21/ecommerce-demo",
+      "stack": ["JavaScript", "React", "Tailwind CSS"],
+      "description": "Responsive product card component with modern UX patterns for high-conversion e-commerce flows."
+    },
+    {
+      "name": "TE Frontend",
+      "repo": "leomer21/te-frontend",
+      "stack": ["TypeScript", "React"],
+      "description": "TypeScript frontend application built with component-driven architecture and scalable state patterns."
+    },
+    {
+      "name": "Microsystem ERP",
+      "repo": "leomer21/microsystem",
+      "stack": ["Laravel", "Vue.js", "MySQL"],
+      "description": "Enterprise ERP and business solutions platform focused on performance and maintainability."
+    },
+    {
+      "name": "Instagram Chat Dashboard",
+      "repo": "leomer21/instagram_chat_dashboard",
+      "stack": ["Vue.js", "Firebase"],
+      "description": "Real-time messaging dashboard with modern UI for social engagement workflows."
+    },
+    {
+      "name": "Coinbase Dashboard",
+      "repo": "leomer21/coinbase-dashboard",
+      "stack": ["Vue.js", "Chart.js"],
+      "description": "Crypto portfolio dashboard with data visualization and responsive layout patterns."
+    }
+  ]
+}
