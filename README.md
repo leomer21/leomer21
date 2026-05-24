@@ -68,26 +68,77 @@ I've led teams, mentored engineers, and delivered platforms serving **1M+ users*
 
 ## Featured Projects
 
-<p align="left">
-  <a href="https://github.com/leomer21/parking-management-system-frontend">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=parking-management-system-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Parking Management Platform" />
-  </a>
-  <a href="https://github.com/leomer21/ecommerce-demo">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=ecommerce-demo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="E-Commerce Product UI" />
-  </a>
-  <a href="https://github.com/leomer21/te-frontend">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=te-frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="TE Frontend" />
-  </a>
-  <a href="https://github.com/leomer21/microsystem">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=microsystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Microsystem ERP" />
-  </a>
-  <a href="https://github.com/leomer21/instagram_chat_dashboard">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=instagram_chat_dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Instagram Chat Dashboard" />
-  </a>
-  <a href="https://github.com/leomer21/coinbase-dashboard">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leomer21&repo=coinbase-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Coinbase Dashboard" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [`Parking Management Platform`](https://github.com/leomer21/parking-management-system-frontend)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+Full-stack parking management with optimized utilization, revenue tracking, and security integrations.
+
+</td>
+<td width="50%" valign="top">
+
+### [`E-Commerce Product UI`](https://github.com/leomer21/ecommerce-demo)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Responsive product card component with modern UX patterns for high-conversion e-commerce flows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`TE Frontend`](https://github.com/leomer21/te-frontend)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+TypeScript frontend application built with component-driven architecture and scalable state patterns.
+
+</td>
+<td width="50%" valign="top">
+
+### [`Microsystem ERP`](https://github.com/leomer21/microsystem)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Enterprise ERP and business solutions platform focused on performance and maintainability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`Instagram Chat Dashboard`](https://github.com/leomer21/instagram_chat_dashboard)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Real-time messaging dashboard with modern UI for social engagement workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### [`Coinbase Dashboard`](https://github.com/leomer21/coinbase-dashboard)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+Crypto portfolio dashboard with data visualization and responsive layout patterns.
+
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/leomer21?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
@@ -125,12 +176,12 @@ I've led teams, mentored engineers, and delivered platforms serving **1M+ users*
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leomer21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomer21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leomer21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leomer21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=leomer21&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=leomer21&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" />
 </p>
 
 ---
